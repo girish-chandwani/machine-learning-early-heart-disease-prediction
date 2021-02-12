@@ -1,1 +1,21 @@
 # machine-learning-early-heart-disease-prediction
+- Importing Packages
+- Importing Dataset
+- Exploratory data analysis
+- Creating feature and target dataframes
+- Splitting the data
+- Scaling data (Using MinMaxScaler)
+- Building the Models using grid search
+  - Naive Bayes
+  - SVM
+  - Decision Tree
+  - RandomForest
+  - ADA Boost
+  - KNN
+  - Multilayer Perceptron
+- Evaluating the models
+- Plotting Train & Test Accuracies
+- Bagging
+- Voting
+- Feature Engineering
+- References
